@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\cody\\Documents\\server-sent-events-ts\\server-sent-events-server\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4BB7DBF8-3CDF-41A7-B240-8DEA57CD8D4F}|server-sent-events-server.csproj|c:\\users\\cody\\documents\\server-sent-events-ts\\server-sent-events-server\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB7DBF8-3CDF-41A7-B240-8DEA57CD8D4F}|server-sent-events-server.csproj|solutionrelative:controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB7DBF8-3CDF-41A7-B240-8DEA57CD8D4F}|server-sent-events-server.csproj|c:\\users\\cody\\documents\\server-sent-events-ts\\server-sent-events-server\\eventdispatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB7DBF8-3CDF-41A7-B240-8DEA57CD8D4F}|server-sent-events-server.csproj|solutionrelative:eventdispatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4BB7DBF8-3CDF-41A7-B240-8DEA57CD8D4F}|server-sent-events-server.csproj|c:\\users\\cody\\documents\\server-sent-events-ts\\server-sent-events-server\\controllers\\connectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BB7DBF8-3CDF-41A7-B240-8DEA57CD8D4F}|server-sent-events-server.csproj|solutionrelative:controllers\\connectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB7DBF8-3CDF-41A7-B240-8DEA57CD8D4F}|server-sent-events-server.csproj|c:\\users\\cody\\documents\\server-sent-events-ts\\server-sent-events-server\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB7DBF8-3CDF-41A7-B240-8DEA57CD8D4F}|server-sent-events-server.csproj|solutionrelative:controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB7DBF8-3CDF-41A7-B240-8DEA57CD8D4F}|server-sent-events-server.csproj|c:\\users\\cody\\documents\\server-sent-events-ts\\server-sent-events-server\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB7DBF8-3CDF-41A7-B240-8DEA57CD8D4F}|server-sent-events-server.csproj|solutionrelative:models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventDispatch.cs",
+              "DocumentMoniker": "C:\\Users\\cody\\Documents\\server-sent-events-ts\\server-sent-events-server\\EventDispatch.cs",
+              "RelativeDocumentMoniker": "EventDispatch.cs",
+              "ToolTip": "C:\\Users\\cody\\Documents\\server-sent-events-ts\\server-sent-events-server\\EventDispatch.cs",
+              "RelativeToolTip": "EventDispatch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T03:20:46.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\cody\\Documents\\server-sent-events-ts\\server-sent-events-server\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\cody\\Documents\\server-sent-events-ts\\server-sent-events-server\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T02:23:46.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\cody\\Documents\\server-sent-events-ts\\server-sent-events-server\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Models\\Message.cs",
+              "ToolTip": "C:\\Users\\cody\\Documents\\server-sent-events-ts\\server-sent-events-server\\Models\\Message.cs",
+              "RelativeToolTip": "Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T02:16:23.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\cody\\Documents\\server-sent-events-ts\\server-sent-events-server\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\cody\\Documents\\server-sent-events-ts\\server-sent-events-server\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "Controllers\\MessageController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T02:10:08.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ConnectionController.cs",
               "DocumentMoniker": "C:\\Users\\cody\\Documents\\server-sent-events-ts\\server-sent-events-server\\Controllers\\ConnectionController.cs",
               "RelativeDocumentMoniker": "Controllers\\ConnectionController.cs",
               "ToolTip": "C:\\Users\\cody\\Documents\\server-sent-events-ts\\server-sent-events-server\\Controllers\\ConnectionController.cs",
               "RelativeToolTip": "Controllers\\ConnectionController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T03:05:18.577Z",
               "EditorCaption": ""
